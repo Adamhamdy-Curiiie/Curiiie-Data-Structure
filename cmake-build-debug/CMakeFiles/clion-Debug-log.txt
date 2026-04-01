@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2024.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "D:\CS my material\2nd Year\Semester 2\Data Structure\Data_Structure_Code" -B "D:\CS my material\2nd Year\Semester 2\Data Structure\Data_Structure_Code\cmake-build-debug"
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/CS my material/2nd Year/Semester 2/Data Structure/Data_Structure_Code/cmake-build-debug
