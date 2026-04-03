@@ -7,13 +7,14 @@ include_directories(
     LinkedList
     Stack
     Vector
-    Sorting
 )
 
 add_executable(ccc
     main.cpp
-    LinkedList/Node.h
+    LinkedList/LinkedList.h
+    LinkedList/LinkedListBase.h
+    LinkedList/OrderedLinkedList.h
+    LinkedList/DoublyLinkedList.h
     Stack/DodoStack.h
     Vector/DodoVector.h
-    Sorting/Sorting.h
 )
