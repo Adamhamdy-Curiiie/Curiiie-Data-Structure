@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-    // ── LinkedList 
+    // ── LinkedList
     cout << "=== LinkedList ===\n";
     LinkedList<int> ll;
     ll.push_back(10);

@@ -10,11 +10,13 @@ include_directories(
 )
 
 add_executable(ccc
-    main.cpp
-    LinkedList/LinkedList.h
-    LinkedList/LinkedListBase.h
-    LinkedList/OrderedLinkedList.h
-    LinkedList/DoublyLinkedList.h
-    Stack/DodoStack.h
-    Vector/DodoVector.h
+        main.cpp
+        LinkedList/LinkedList.h
+        LinkedList/LinkedListBase.h
+        LinkedList/OrderedLinkedList.h
+        LinkedList/DoublyLinkedList.h
+        Vector/DodoVector.h
+        Stack/StackADT.h
+        Stack/ArrayStack.h
+        Stack/LinkedStack.h
 )
